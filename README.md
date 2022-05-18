@@ -1,4 +1,4 @@
-## Olá! Meu nome é Leonardo Alencar!
+## Olá! Me chamo Leonardo Alencar!
 
 <div align="center">
   <a href="https://github.com/Leeohalen">
